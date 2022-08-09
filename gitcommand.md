@@ -27,3 +27,6 @@
 
 
 ## Создадим ветку commandlectionandceminare2 и добавим туда комманды со вторых лекции и семинара
+1. **git checkout branch_name**- переместиться в ветку с именем branch_name
+2. **git log --graph**- вывести список коммитов в виде касивого графика/дерева
+3. **gir merge branch name**- слить текущую ветку с веткой "branch_name" 
