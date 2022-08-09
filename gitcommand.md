@@ -30,3 +30,6 @@
 1. **git checkout branch_name**- переместиться в ветку с именем branch_name
 2. **git log --graph**- вывести список коммитов в виде касивого графика/дерева
 3. **gir merge branch name**- слить текущую ветку с веткой "branch_name" 
+1. **git branch** - список существующих веток
+2. **git branch NewBranchName**- создать новую ветку с именем new branch name
+3. **git branch -d branch_to_delete**- удалить ветку с именем "branch_to_delete"
