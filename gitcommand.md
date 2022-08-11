@@ -33,3 +33,6 @@
 1. **git branch** - список существующих веток
 2. **git branch NewBranchName**- создать новую ветку с именем new branch name
 3. **git branch -d branch_to_delete**- удалить ветку с именем "branch_to_delete"
+
+
+тестируем пулл
